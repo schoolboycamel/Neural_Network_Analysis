@@ -63,7 +63,7 @@ Target Score: 75%
 Accuracy Score: 73%
 
 Third attempt: Changed epochs to 150
-![Pic 5}(https://github.com/schoolboycamel/Neural_Network_Analysis/blob/main/Images/Optimization_2.png)
+![Pic 5](https://github.com/schoolboycamel/Neural_Network_Analysis/blob/main/Images/Optimization_2.png)
 
 Target Score: 75%
 Accuracy Score: 73%
