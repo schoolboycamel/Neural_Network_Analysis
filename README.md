@@ -8,16 +8,6 @@ AlphabetSoup, a philanthropic foundation which donates millions of dollars to di
 
 ## Resources 
 
-
-- Scikit-learn
-- Pandas
-- TensorFlow
-- Keras 
-- Deep Learning Neural Networks
-
-## Results
-- Data Source:
-  -  [`charity_data.csv`](Resources/charity_data.csv)
  - Software:
   - Python 
   - Scikit-learn
@@ -28,6 +18,9 @@ AlphabetSoup, a philanthropic foundation which donates millions of dollars to di
   
 ## Results
 
+- Data Source:
+  -  [`charity_data.csv`](Resources/charity_data.csv)
+  
 ### Data Preprocessing 
 - Target Variable: IS_SUCCESSFUL Column
 - Dropped Variables:  'EIN' and 'NAME' Columns
